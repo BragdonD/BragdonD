@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev": "npx tailwindcss -i ./src/css/index.css -o ./public/css/index.css --watch"
+    "dev": "npx tailwindcss -i ./src/css/index.css -o ./public/css/index.css --watch --minify"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
