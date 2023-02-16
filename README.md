@@ -11,3 +11,4 @@
 
 # For me ...
 https://stackoverflow.com/questions/68441473/how-can-i-trigger-this-animation-to-start-once-in-viewport
+https://css-tricks.com/snippets/css/typewriter-effect/
