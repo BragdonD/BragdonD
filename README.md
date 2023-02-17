@@ -8,3 +8,7 @@
 ## Working on
 - Inventory app - It is currently in private because i am developping it for an enterprise
 - Swapp app - It is a card personal/business app
+
+# For me ...
+https://stackoverflow.com/questions/68441473/how-can-i-trigger-this-animation-to-start-once-in-viewport
+https://css-tricks.com/snippets/css/typewriter-effect/
